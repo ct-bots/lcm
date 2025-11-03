@@ -1,4 +1,4 @@
-name: build_docs_artifact
+name: build_and_download
 
 on:
   push:
